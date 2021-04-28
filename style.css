@@ -1,0 +1,142 @@
+nav {
+	text-align: center;
+	padding: 1% 0;
+}
+nav a {
+	margin: 3%;
+	color: black;
+	text-decoration: none;
+}
+header {
+	background: url(polygons.png);
+	text-align: center;
+	color: white;
+	padding: 10% 0;
+	width: 80%;
+	margin: auto;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	padding: 3%;
+}
+header p {
+	margin: 3%;
+
+}
+nav a {
+	text-decoration: none;
+	color: black;
+	background: white;
+
+}
+.more {
+	padding: 1%;
+	border-radius: 3px;
+}
+.content {
+	display: flex;
+	align-items: center;
+}
+.com_text {
+	width: 70%;
+}
+.com_amg {
+	width: 30%;
+}
+h2 {
+	text-align: center;
+	margin-top: 3%;
+}
+.company {
+	width: 80%;
+	margin: auto;
+}
+.team_text {
+	text-align: center;
+	margin: 2%;
+}
+img {
+	width: 50%;
+	margin: 5%;
+}
+
+	
+.member {
+	width: 20%;
+	box-shadow: 0 0 10px grey;
+	padding: 1%;
+}
+
+.member_img {
+	width: 100%;
+	margin: 0;
+}
+
+.member_flex {
+	display: flex;
+	justify-content: space-around;
+}
+.profession {
+	color: grey;
+    margin: 10px 0;
+}
+.letter {
+	text-decoration: none;
+	background: #5d678c;
+	color: white;
+	display: block;
+	padding: 2%;
+	text-align: center;
+	border-radius: 5px;
+	margin-top: 3%;
+}
+.money {
+	text-align: center;
+	margin: 2%;
+}
+.tarif {
+	background-color: gray;
+}
+.dengi, .money {
+	color: white;
+}
+	
+ul {
+	list-style-type: none;
+	background-color: white;
+	text-align: center;
+	width: 30%;
+}
+.list_flex {
+	display: flex;
+	justify-content: space-around;
+}
+.black {
+	background: black;
+	color: white;
+}
+.blue {
+	background: #5d678c;
+	color: white;
+}
+.list_flex li {
+    padding: 5%;
+    border-bottom: 1px solid silver;
+} 
+.grey {
+	background: silver;
+
+}
+.grey a {
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	border-radius: 5px;
+	padding: 3%;
+}
+span {
+	font-weight: bold;
+}
