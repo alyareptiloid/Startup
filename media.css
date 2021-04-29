@@ -1,0 +1,28 @@
+@media(max-width: 600px) {
+	nav a {
+		display: block;
+	}
+	.content {
+		display: block;
+	}
+	.content p {
+		text-align: center;
+		width: 100%;
+	}
+	.content img {
+		width: 100%;
+	}
+	.member_flex,.list_flex {
+		display: block;
+		padding: 5%;
+		width: 100%;
+		box-sizing: border-box;
+	}
+	.member,ul {
+		width: 100%;
+		padding: 3%;
+		box-sizing: border-box;
+		margin-bottom: 10px; 
+	}
+
+}
